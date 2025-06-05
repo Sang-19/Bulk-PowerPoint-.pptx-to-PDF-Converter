@@ -75,8 +75,3 @@ After running the script:
 This script is released under the [MIT License](LICENSE). Feel free to modify or distribute it.
 
 ---
-
-## ✨ Author
-
-Developed by [Your Name]  
-Inspired by the need for fast batch conversion in real-world document workflows.
